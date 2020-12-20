@@ -23,6 +23,7 @@ function App() {
           </Route>
           <Route path="/answer-4">
             <PasswordAnswer imgSrc={Answer2} correctAnswer="936" hint="It's a number." />
+          </Route>
           <Route path="/">
             <h1>Welcome to Gather Town Escape Room!</h1>
 
